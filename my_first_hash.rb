@@ -25,8 +25,6 @@ def adding
                   "oil paintings" => 3
                  }
   
-
-
-
+shipp
 
 end
