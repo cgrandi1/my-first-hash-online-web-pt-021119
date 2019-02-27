@@ -25,6 +25,6 @@ def adding
                   "oil paintings" => 3
                  }
   
-shipp
+shipping_manifest
 
 end
